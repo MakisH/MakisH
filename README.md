@@ -4,4 +4,4 @@ I am currently a doctoral candidate at the Technical University of Munich, devel
 
 As I am currently busy with much more than coding, I would prefer to refer you to my [university webpage](https://www.in.tum.de/en/i05/people/personen/gerasimos-chourdakis/) for more details and latest updates.
 
-For any preCICE-related questions, please use our [community channels](https://precice.org/community-channels.html). For anything telse hat I may be the right person to help, please don't hesitate to contact me via email.
+For any preCICE-related questions, please use our [community channels](https://precice.org/community-channels.html). For anything else that I may be the right person to ask for help from, please don't hesitate to contact me via email.
